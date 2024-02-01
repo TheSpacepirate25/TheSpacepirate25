@@ -1,4 +1,4 @@
-Hi, I’m @MaximusBlue
+Hi, I’m @MaximusBlue.
 I’m interested in python programming and machine learning.
 I’m currently learning Python and HTML.
 
