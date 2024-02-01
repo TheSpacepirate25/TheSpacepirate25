@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MaximusBlue
-- 👀 I’m interested in minecraft modding, game development and python programming.
-- 🌱 I’m currently learning Python, JavaScript, Command Block.
-- 💞️ I’m looking to collaborate on minecraft mods and other coding projects.
-- 📫 How to reach me: MCreator Forum, username MaximusBlue or here on GitHub!
+Hi, I’m @MaximusBlue
+I’m interested in python programming and machine learning.
+I’m currently learning Python and HTML.
 
 <!---
 MaximusBlue/MaximusBlue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
