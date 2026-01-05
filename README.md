@@ -1,4 +1,4 @@
-Flash game archivist, python and HTML "programmer", but I'm really into board games and game dev in general
+i made a really cool website you can see it at slh-1.vercel.app if you want
 
 <!---
 TheSpacepirate25/TheSpacepirate25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
